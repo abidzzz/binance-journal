@@ -1,5 +1,5 @@
 # binance-journal
-Python script to fetch and analyze cryptocurrency trades from the Binance exchange 
+This repository contains a Python script to fetch and analyze cryptocurrency trades from the Binance exchange. The script fetches all orders for a specified trading pair, processes the data to match buy and sell trades, and calculates profits or losses. The results are saved into an Excel file with enhanced formatting.
 
 ## <b>NOTE </b> : This script works only if you buy and sell one after the other. It assumes that <b>each buy order is followed by a corresponding sell order</b>.
 
