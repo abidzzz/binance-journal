@@ -6,7 +6,7 @@ Python script to fetch and analyze cryptocurrency trades from the Binance exchan
 <br>
 
 ## Screenshots
-<img src="screenshots/0.png"></image>
+<img src="/0.png"></image>
 
 # Getting Started
 
